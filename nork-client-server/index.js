@@ -1,8 +1,5 @@
 // This is the Client
 
-// Boris Pavlov #0841034 INFO 498 Software Architecture 
-// Arch-Nork implemented via Client-Server Architecture
-
 'use strict';
 var host = require('./theServer.js');   // Required for connection to server
 const mod  = require('net');            // Server requirements

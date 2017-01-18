@@ -1,8 +1,5 @@
 //This is the Controller
 
-// Boris Pavlov #0841034 INFO 498 Software Architecture 
-// Arch-Nork implemented via MVC Three Tier Architecture
-
 'use strict';
 var theView = require('./theView.js'); // connecting to the view
 var world = require("../common/world.json");  // the world

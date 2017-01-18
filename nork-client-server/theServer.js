@@ -1,8 +1,5 @@
 // This is the Server
 
-// Boris Pavlov #0841034 INFO 498 Software Architecture 
-// Arch-Nork implemented via Client-Server Architecture
-
 'use strict';
 var mod = require('net');                     // Server module 
 var world = require("../common/world.json");  // the world
